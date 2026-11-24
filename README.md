@@ -6,10 +6,10 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-| Oyun | Tür | Motor | Platform |
-|---|---|---|---|
-| [Tilterix](#-tilterix) | Fizik / denge tabanlı blok bulmaca | Godot | iOS · Android |
-| [Liney Family](#-liney-family) | Çok şeritli sonsuz koşu (endless runner) | Godot | iOS · Android |
+| Oyun | Tür | Motor | Platform | Durum |
+|---|---|---|---|---|
+| [Tilterix](#-tilterix) | Fizik / denge tabanlı blok bulmaca | Godot | iOS · Android | Google Play kapalı test |
+| [Liney Family](#-liney-family) | Çok şeritli sonsuz koşu (endless runner) | Godot | iOS · Android | Google Play kapalı test |
 
 ---
 
