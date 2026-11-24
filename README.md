@@ -1,11 +1,15 @@
 # 📱 Mobile Games
 
-iOS ve Android için geliştirdiğim iki mobil oyun: **Tilterix** ve **Liney Family**.
+**Godot Engine** ile iOS ve Android için geliştirdiğim iki mobil oyun: **Tilterix** ve **Liney Family**.
 
-| Oyun | Tür | Platform |
-|---|---|---|
-| [Tilterix](#-tilterix) | Fizik / denge tabanlı blok bulmaca | iOS · Android |
-| [Liney Family](#-liney-family) | Çok şeritli sonsuz koşu (endless runner) | iOS · Android |
+![Godot Engine](https://img.shields.io/badge/Godot-Engine-478CBF?logo=godotengine&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
+| Oyun | Tür | Motor | Platform |
+|---|---|---|---|
+| [Tilterix](#-tilterix) | Fizik / denge tabanlı blok bulmaca | Godot | iOS · Android |
+| [Liney Family](#-liney-family) | Çok şeritli sonsuz koşu (endless runner) | Godot | iOS · Android |
 
 ---
 
